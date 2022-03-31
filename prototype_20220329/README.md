@@ -1,0 +1,4 @@
+- `datatypes.py`: 必要なデータ型を実装
+- `ngram.py`: n-gramの言語モデルを実装
+- `language_generator.py`: 言語生成部分を実装
+- `evaluate.py`: 生成結果を確認するためのスクリプト
