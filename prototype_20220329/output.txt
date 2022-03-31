@@ -1,0 +1,187 @@
+DIST_POS_RATIO = 1.0
+NORM_SCALE = 2.0
+SYMBOL_MAGNIFICATION = 3.0
+DIST_CHARTYPE_RATIO = 1.0
+DIST_USED_RATIO = 0.1
+DIST_LEFT_RATIO = 1.0
+
+==============================
+
+14 This is a cat.
+17 Ceci est un chat.
+16 Este es un gato.
+15 Isso é um gato.
+++++++++++++++++++++
+13 Cet es un at.
+
+==============================
+
+14 This is a dog.
+15 C'est un chien.
+17 Esto es un perro.
+19 Isto é um cachorro.
+++++++++++++++++++++
+15 Ist esmuc irgo.
+
+==============================
+
+22 I want to play a game.
+23 Je veux jouer à un jeu.
+22 Quiero jugar un juego.
+23 Eu quero jogar um jogo.
+++++++++++++++++++++
+18 Juwe jojug nujuje.
+
+==============================
+
+25 I want to play the piano.
+23 Je veux jouer du piano.
+22 Quiero tocar el piano.
+21 Eu quero tocar piano.
+++++++++++++++++++++
+23 I wietu toote ru piino.
+
+==============================
+
+14 This is a cat.
+17 Ceci est un chat.
+16 Este es un gato.
+15 Isso é um gato.
+19 Das ist eine Katze.
+++++++++++++++++++++
+17 Des es es in ate.
+
+==============================
+
+14 This is a dog.
+15 C'est un chien.
+17 Esto es un perro.
+19 Isto é um cachorro.
+17 Das ist ein Hund.
+++++++++++++++++++++
+13 Dso et uccor.
+
+==============================
+
+22 I want to play a game.
+23 Je veux jouer à un jeu.
+22 Quiero jugar un juego.
+23 Eu quero jogar um jogo.
+29 Ich möchte ein Spiel spielen.
+++++++++++++++++++++
+23 Ice qönox jipar nasuje.
+
+==============================
+
+25 I want to play the piano.
+23 Je veux jouer du piano.
+22 Quiero tocar el piano.
+21 Eu quero tocar piano.
+27 Ich möchte Klavier spielen.
+++++++++++++++++++++
+24 Icew neoto cuaval piino.
+
+==============================
+
+14 This is a cat.
+17 Ceci est un chat.
+16 Este es un gato.
+15 Isso é um gato.
+19 Das ist eine Katze.
+8 Это кот.
+7 Це кіт.
+13 Това е котка.
+13 Энэ бол муур.
+++++++++++++++++++++
+16 Des esesu nоKat.
+
+==============================
+
+14 This is a dog.
+15 C'est un chien.
+17 Esto es un perro.
+19 Isto é um cachorro.
+17 Das ist ein Hund.
+11 Это собака.
+10 Це собака.
+12 Това е куче.
+14 Энэ бол нохой.
+++++++++++++++++++++
+15 Dat éбusi pirй.
+
+==============================
+
+22 I want to play a game.
+23 Je veux jouer à un jeu.
+22 Quiero jugar un juego.
+23 Eu quero jogar um jogo.
+29 Ich möchte ein Spiel spielen.
+23 Я хочу поиграть в игру.
+19 Я хочу грати в гру.
+20 Искам да играя игра.
+31 Би тоглоом тоглохыг хүсч байна.
+++++++++++++++++++++
+27 Ice qöлоt jогug гeхas гeна.
+
+==============================
+
+25 I want to play the piano.
+23 Je veux jouer du piano.
+22 Quiero tocar el piano.
+21 Eu quero tocar piano.
+27 Ich möchte Klavier spielen.
+25 Я хочу играть на пианино.
+24 Я хочу грати на піаніно.
+24 Искам да свиря на пиано.
+33 Би төгөлдөр хуур тогломоор байна.
+++++++++++++++++++++
+25 I төгötu рeраla нeнаpiбa.
+
+==============================
+
+10 이것은 고양이이다.
+9 นี่คือแมว
+20 Αυτό είναι μια γάτα.
+10 ይህ ድመት ነው.
+++++++++++++++++++++
+14 Αυτό εί ιትอα이.
+
+==============================
+
+6 이건 개야.
+12 นี่คือสุนัข.
+24 Αυτός είναι ένας σκύλος.
+9 ይህ ውሻ ነው።
+++++++++++++++++++++
+15 Αυτ่ίναสα ัλος.
+
+==============================
+
+11 게임을 하고 싶어요.
+22 ผมต้องการที่จะเล่นเกม.
+27 Θέλω να παίξω ένα παιχνίδι.
+16 ጨዋታ መጫወት እፈልጋለሁ።
+++++++++++++++++++++
+23 Θέλω้να กาίወี่จα ลጋለίሁ።
+
+==============================
+
+12 피아노를 치고 싶어요.
+17 ฉันอยากเล่นเปียโน
+19 Θέλω να παίξω πιάνο
+16 ፒያኖ መጫወት እፈልጋለሁ።
+++++++++++++++++++++
+14 Θัኖ노า παίፈልีย.
+
+==============================
+
+104 Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.
+123 Apprendre d'hier, vivre pour aujourd'hui, espérer pour demain. L'important est de ne pas cesser de se remettre en question.
+99 Aprende del ayer, vive para el hoy, espera para el mañana. Lo importante es no dejar de cuestionar.
+93 Aprenda com o ontem, viva o hoje, espere pelo amanhã. O importante é não parar de questionar.
+99 Lerne von gestern, lebe für heute, hoffe auf morgen. Wichtig ist, nicht aufzuhören zu hinterfragen.
+++++++++++++++++++++
+97 Aperen vodel rovid,vivub vevar hutas hofep famor lomim.tOgem potitti casãn taten ruder tetirosin.
+
+==============================
+
